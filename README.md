@@ -70,6 +70,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/satyamdevv/satyamdevv/blob/main/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/satyamdevv/satyamdevv/output/snake.svg" alt="Snake animation" />
 
 ###
