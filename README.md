@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning BCA from Christ University.<br>🎯 Goals: I want to build a career in AI & ML Fields Because I am interested in it.</p>
+<p align="left">👋 Introduction: Satyam Tiwari, a Python Developer from Delhi, is currently studying Bachelor in Computer Application at Christ University. <br>💪 Strong interest in AI and large language models. <br>💻 Developed several apps, including a Contacts Management App with over 4,000 installs and 400+ active users. <br>🌐 You can reach me any time or connect with him on LinkedIn. </p>
 
 ###
 
