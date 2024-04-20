@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👋 Introduction: Satyam Tiwari, a Python Developer from Delhi, is currently studying Bachelor in Computer Application at Christ University. <br>💪 Strong interest in AI and large language models. <br>💻 Developed several apps, including a Contacts Management App with over 4,000 installs and 400+ active users. <br>🌐 You can reach me any time or connect with him on LinkedIn. </p>
+<p align="left">👋 Hi there! I'm Satyam Tiwari, a Python Developer from Delhi, is currently studying Bachelor in Computer Application at Christ University. <br>💪 Strong interest in AI and large language models. <br>💻 Developed several apps, including a Contacts Management App with over 4,000 installs and 400+ active users. <br>🌐 You can reach me any time or connect with him on LinkedIn. </p>
 
 ###
 
